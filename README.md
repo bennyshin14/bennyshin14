@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Benny ⚽️
 
-<!--
-**bennyshin14/bennyshin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I am a high school student interested in **Mechanical Engineering, Aerospace Engineering, Motorsports, and Computational Engineering**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🧑‍💻 Programming 
+
+### Languages & Skills 
+* **Python** | Intermediate
+
+  * Algorithmic problem solving
+  * Data processing
+  * Computer Vision with OpenCV
+* **HTML / CSS / JavaScript** | Beginner
+  * Basic front-end web development
+
+---
